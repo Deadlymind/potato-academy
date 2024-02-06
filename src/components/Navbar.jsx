@@ -48,13 +48,13 @@ const Navbar = () => {
             Potato &nbsp;
             <span className='sm:block hidden'> | Software Development</span>
           </p>
-          {/* <div className='hidden sm:flex gap-4'>
+          <div className='hidden sm:flex gap-4'>
             <div>
               <a href="https://discord.gg/MvV75R38Jx" target="_blank" rel="noopener noreferrer">
                 <FaDiscord className='text-white text-3xl' />
               </a>
             </div>
-          </div> */}
+          </div>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
